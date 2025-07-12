@@ -1,7 +1,7 @@
 streamlit 
 numpy
 pandas
-tensorflow
+tensorflow==2.10.0
 sklearn
 pickle
 matplotlib
