@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-from tensorflow.keras.models import load_model # type: ignore
+from tensorflow.keras.models import load_model
 from sklearn.preprocessing import StandardScaler
 import pickle
 import matplotlib.pyplot as plt
